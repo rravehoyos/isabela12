@@ -1,0 +1,115 @@
+.titulo
+{
+	background-image: url("titulo.jpeg");
+	margin-top: 60px;
+	width: 700px;
+	height: 130px;
+}
+
+.div
+{
+	margin-top: 60px;
+	position: absolute;
+	background-image: url("11.jpeg");
+	text-align: center;
+	font-style: oblique;
+	color: white;	
+	font-size:30px;
+	padding: 5%;
+    width: 15%;
+	height: 10%;
+	left: 38%;
+	top: 22%;
+	border-radius: .25rem;
+	z-index: 10;
+	
+}
+
+.contenido
+{
+	margin-top: 60px;
+	position: absolute;
+	background-image: url("1.jpeg");
+	text-align: center;
+	font-style: oblique;
+	color: white;	
+	font-size:30px;
+	padding: 5%;
+    width: 15%;
+	height: 10%;
+	left: 38%;
+	top: 22%;
+	border-radius: .25rem;
+	z-index: 10;
+}
+
+.boton
+{
+	background-image: url("mensaje2.jpeg");
+	width: 140px;
+	height: 50px;
+}
+			
+.boton:hover, .boton:active, .boton:focus
+ {
+	background-image: url("mensaje.jpeg"); 
+}
+
+.A
+{
+	margin-top: 60px;
+	position: absolute;
+	background-image: url("a.jpeg");
+	text-align: center;
+	font-style: oblique;
+	color: white;	
+	font-size:30px;
+	padding: 5%;
+
+	width: 15%;
+	height: 10%;
+	left: 38%;
+	top: 22%;
+	border-radius: .25rem;
+	z-index: 10;
+	display: none;
+}
+
+.B
+{
+	margin-top: 60px;
+	position: absolute;
+	background-image: url("b.jpeg");
+	text-align: center;
+	font-style: oblique;
+	color: white;	
+	font-size:30px;
+	padding: 5%;
+
+	width: 15%;
+	height: 10%;
+	left: 38%;
+	top: 22%;
+	border-radius: .25rem;
+	z-index: 10;
+	display: none;
+}
+
+.C
+{
+	margin-top: 60px;
+	position: absolute;
+	background-image: url("c.jpeg");
+	text-align: center;
+	font-style: oblique;
+	color: white;	
+	font-size:30px;
+	padding: 5%;
+	width: 15%;
+	height: 10%;
+	left: 38%;
+	top: 22%;
+	border-radius: .25rem;
+	z-index: 10;
+	display: none;
+}
